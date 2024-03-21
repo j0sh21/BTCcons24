@@ -1,7 +1,7 @@
 # BTCcons24
 List of Bitcoin Conferences this Year
 
-| Datum     | Name                                      | Ort                                             | Info                                                     |
+| Date     | Name                                      | Location                                             | Info                                                     |
 |-----------|-------------------------------------------|--------------------------------------------------|----------------------------------------------------------|
 | Jan 3rd   | Bitcoin Block Party                      | Dallas, TX USA                                  | [Eventbrite](https://www.eventbrite.com/e/bitcoin-block-party-wednesda) |
 | Jan 20th  | Bitcoin Day Naples                       | Naples, FL USA                                  | [Website](https://bitcoinday.io/naples24)               |
@@ -13,7 +13,6 @@ List of Bitcoin Conferences this Year
 | Feb 17th   | BitKiwi VII                              | Queenstown, NZ                                  | [Twitter](https://twitter.com/Bitkiwil)                 |
 | Feb 22-24  | Bitcoin++                                | Buenos Aires, Argentina                         | [Website](https://bteplusplus.dev)                      |
 | Feb 23-24  | Blackout Conference                      | Las Vegas, NV USA                               | [Website](https://www.blackbitcoinbillionaire.com/get-ready-for-the-las-) |
-| ???       | Bitcoin Nottingham                      | Nottingham, England                             | [Website](https://www.bitcoinnottingham.or)            |
 | March 1-3  | Bitcoin Atlantis                         | Madeira Island, Portugal                        | [Website](https://bitcoinatlantis.com)                  |
 | March 14-15| Advancing Bitcoin Developer Conf         | London, England                                 | [Website](https://www.advaneingbitcoin.com)            |
 | March 16-17| Bush Bash                                | Beechworth, Victoria, Australia                 | [Website](https://bitcoinbushbash.info)                |
@@ -32,7 +31,6 @@ List of Bitcoin Conferences this Year
 | May th     | MassAdoption                             | Boston, MA                                      | [Twitter](https://twitter.com/BTC Mass)                |
 | May 16-18  | Canadian Bitcoin Conference              | Montreal, Canada                                | [Website](https://canadianbitcoinconf.com)             |
 | May 25th   | Bitcoin Ireland Conference               | Newlands Cross, Dublin, Ireland                 | [Website](https://www.bitcoinireland.eu)               |
-| ???       | Bef Pleb                                 | France                                           | [Website](https://bitcoincoffee.shop/billettsentral/etn/tickets/) |
 | June 7-8   | Northern Lightning Conference            | Berlin, Germany                                 | [Website](https://www.btcprague.com/#)                 |
 | June 13-15 | BTC Prague                               | Czechia                                          | [Website](https://bitcoinconferences.events/)          |
 | June 25-27 | Mining Disrupt                           | Miami, FL                                       | [Website](https://miningdisrupt.com)                   |
@@ -40,10 +38,30 @@ List of Bitcoin Conferences this Year
 | June 28-30 | Bitcoin im Ländle                       | Germany                                          | [Website](https://einundzwanzig-stuttg.art)            |
 | July 4-5   | The Bitcoin Rodeo                       | Calgary, AB                                     | [Website](http://bitcoinrodeo.com/)                    |
 | July 11-14 | Mallorca Blockchain Days V               | Palma, Mallorca, Spain                          | [Website](https://mallorcablockchaindays.com)             |
-| ???       | Bitcoin Beach Retreat                   | Wales                                            | [Website](htt://tgfb.com/store)                        |
 | July 24-25| Thank God for Bitcoin 24                | Nashville, TN USA                               | [Website](https://b.te/conference/2024)                |
 | July 24-27| Bitcoin Conference                       | Nashville, TN USA                               | [Eventbrite](https://www.eventbrite.com/e/bitcoin-nashville-2024-12-hour-all-inclusive-pleb-party-july-25-by-anders-tickets-748118852627) |
 | July 25   | 12 Hour All Inclusive Pleb Party        | Nashville, TN USA                               | [Twitter](https://twitter.com/ZitadelleuUM)              |
 | July 25-28| Zitadelle Uckermark                     | Templin, Germany                                | [Website](https://bitcoinbushbash.info)                |
-| ???       | Bush Bash                                | Australia                                       | [Twitter](https://twitter.com/LakeSatoshi)             |
-| Aug 10-11  |||
+
+## Date to be announced
+
+| Date | Name                             | Location                                             | Info                                                     |
+|-------|----------------------------------|--------------------------------------------------|----------------------------------------------------------|
+| ???   | Bitcoin Nottingham               | Nottingham, England                             | [Website](https://www.bitcoinnottingham.or)            |
+| ???   | Bef Pleb                         | France                                           | [Website](https://bitcoincoffee.shop/billettsentral/etn/tickets/) |
+| ???   | Bitcoin Beach Retreat            | Wales                                            | [Website](htt://tgfb.com/store)                        |
+| ???   | Bush Bash                        | Australia                                       | [Twitter](https://twitter.com/LakeSatoshi)             |
+| ???   | Northern Lightning Conference    | Berlin, Germany                                 | [Website](https://www.btcprague.com/#)                 |
+| ???   | Mining Disrupt                   | Miami, FL                                       | [Website](https://miningdisrupt.com)                   |
+| ???   | Mallorca Blockchain Days V       | Palma, Mallorca, Spain                          | [Website](httj mallorcablockchaindays.com)             |
+| ???   | Thank God for Bitcoin 24         | Nashville, TN USA                               | [Website](https://b.te/conference/2024)                |
+| ???   | Zitadelle Uckermark              | Templin, Germany                                | [Website](https://bitcoinbushbash.info)                |
+| ???   | Bush Bash                        | Australia                                       | [Twitter](https://twitter.com/LakeSatoshi)             |
+| ???   | HODLween                         | Annecy, France                                  | [Website](https://hodiween.part)                        |
+| ???   | Rocky Mountain Bush Bash         | Florissant, CO                                  | [Website](https://www.megawatthq.com/race)             |
+| ???   | TABConf                          | Charlotte, NC                                   | [Website](https://2023.tabconf.com)                     |
+| ???   | Bitcoin Baden                    | Baden, Switzerland                              | [Website](https://bitcoinbaden.ch)                      |
+| ???   | Bitcoin Africa Conference        | Accra, Ghana                                    | [Website](https://www.afrobitcoin.or)                  |
+| ???   | LABITCONF                        | Las Vegas, NV                                   | [Website](https://www.labitconf.com)                    |
+| ???   | Unconfiscatable                  | Las Vegas, NV                                   | [Website](https://unconfiscatable.com)                  |
+
