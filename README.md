@@ -55,7 +55,6 @@ List of Bitcoin Conferences this Year, [copied from twitter (x).](https://twitte
 | ???   | Mining Disrupt                   | Miami, FL                                       | [Website](https://miningdisrupt.com)                   |
 | ???   | Mallorca Blockchain Days V       | Palma, Mallorca, Spain                          | [Website](htts://mallorcablockchaindays.com)             |
 | ???   | Thank God for Bitcoin 24         | Nashville, TN USA                               | [Website](https://b.te/conference/2024)                |
-| ???   | Zitadelle Uckermark              | Templin, Germany                                | [Website](https://bitcoinbushbash.info)                |
 | ???   | Bush Bash                        | Australia                                       | [Twitter](https://twitter.com/LakeSatoshi)             |
 | ???   | HODLween                         | Annecy, France                                  | [Website](https://hodiween.part)                        |
 | ???   | Rocky Mountain Bush Bash         | Florissant, CO                                  | [Website](https://www.megawatthq.com/race)             |
