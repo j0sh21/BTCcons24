@@ -28,7 +28,7 @@ List of Bitcoin Conferences this Year
 | April 25-28| Swiss Bitcoin Conference - Halving Time! | Kreuzlingen Switzerland                         | [Website](https://swiss-bitcoin-conference.com/)       |
 | April 26-27| Bitcoin Seoul                            | Seoul                                            | [Website](https://www.bitcoinseoul.kr)                  |
 | May 1-4    | Bitcoin++                                | Austin, TX                                      | [Website](https://bteplusplus.dev)                      |
-| May th     | MassAdoption                             | Boston, MA                                      | [Twitter](https://twitter.com/BTC Mass)                |
+| May th     | MassAdoption                             | Boston, MA                                      | [Twitter](https://twitter.com/BTC_Mass)                |
 | May 16-18  | Canadian Bitcoin Conference              | Montreal, Canada                                | [Website](https://canadianbitcoinconf.com)             |
 | May 25th   | Bitcoin Ireland Conference               | Newlands Cross, Dublin, Ireland                 | [Website](https://www.bitcoinireland.eu)               |
 | June 7-8   | Northern Lightning Conference            | Berlin, Germany                                 | [Website](https://www.btcprague.com/#)                 |
@@ -53,7 +53,7 @@ List of Bitcoin Conferences this Year
 | ???   | Bush Bash                        | Australia                                       | [Twitter](https://twitter.com/LakeSatoshi)             |
 | ???   | Northern Lightning Conference    | Berlin, Germany                                 | [Website](https://www.btcprague.com/#)                 |
 | ???   | Mining Disrupt                   | Miami, FL                                       | [Website](https://miningdisrupt.com)                   |
-| ???   | Mallorca Blockchain Days V       | Palma, Mallorca, Spain                          | [Website](httj mallorcablockchaindays.com)             |
+| ???   | Mallorca Blockchain Days V       | Palma, Mallorca, Spain                          | [Website](htts://mallorcablockchaindays.com)             |
 | ???   | Thank God for Bitcoin 24         | Nashville, TN USA                               | [Website](https://b.te/conference/2024)                |
 | ???   | Zitadelle Uckermark              | Templin, Germany                                | [Website](https://bitcoinbushbash.info)                |
 | ???   | Bush Bash                        | Australia                                       | [Twitter](https://twitter.com/LakeSatoshi)             |
