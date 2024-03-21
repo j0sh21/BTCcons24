@@ -1,5 +1,5 @@
 # BTCcons24
-List of Bitcoin Conferences this Year
+List of Bitcoin Conferences this Year, [copied from tzwitter.](https://twitter.com/HodlersOfficial/status/1770415112639414292)
 
 | Date     | Name                                      | Location                                             | Info                                                     |
 |-----------|-------------------------------------------|--------------------------------------------------|----------------------------------------------------------|
