@@ -49,11 +49,11 @@ List of Bitcoin Conferences this Year, [copied from twitter (x).](https://twitte
 |-------|----------------------------------|--------------------------------------------------|----------------------------------------------------------|
 | ???   | Bitcoin Nottingham               | Nottingham, England                             | [Website](https://www.bitcoinnottingham.or)            |
 | ???   | Bef Pleb                         | France                                           | [Website](https://bitcoincoffee.shop/billettsentral/etn/tickets/) |
-| ???   | Bitcoin Beach Retreat            | Wales                                            | [Website](htt://tgfb.com/store)                        |
+| ???   | Bitcoin Beach Retreat            | Wales                                            | [Website](https://tgfb.com/store)                        |
 | ???   | Bush Bash                        | Australia                                       | [Twitter](https://twitter.com/LakeSatoshi)             |
 | ???   | Northern Lightning Conference    | Berlin, Germany                                 | [Website](https://www.btcprague.com/#)                 |
 | ???   | Mining Disrupt                   | Miami, FL                                       | [Website](https://miningdisrupt.com)                   |
-| ???   | Mallorca Blockchain Days V       | Palma, Mallorca, Spain                          | [Website](htts://mallorcablockchaindays.com)             |
+| ???   | Mallorca Blockchain Days V       | Palma, Mallorca, Spain                          | [Website](https://mallorcablockchaindays.com)             |
 | ???   | Thank God for Bitcoin 24         | Nashville, TN USA                               | [Website](https://b.te/conference/2024)                |
 | ???   | Bush Bash                        | Australia                                       | [Twitter](https://twitter.com/LakeSatoshi)             |
 | ???   | HODLween                         | Annecy, France                                  | [Website](https://hodiween.part)                        |
